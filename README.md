@@ -1,3 +1,5 @@
+http://127.0.0.1:7862/
+
 
 # Sales Prediction Project
 
